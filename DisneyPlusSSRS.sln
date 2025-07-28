@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "DisneyPlusSSRS", "DisneyPlusSSRS\DisneyPlusSSRS.rptproj", "{9737309C-9697-4028-B25A-9CBE7E769124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9737309C-9697-4028-B25A-9CBE7E769124}.Debug|Default.ActiveCfg = Debug
+		{9737309C-9697-4028-B25A-9CBE7E769124}.Debug|Default.Build.0 = Debug
+		{9737309C-9697-4028-B25A-9CBE7E769124}.Debug|Default.Deploy.0 = Debug
+		{9737309C-9697-4028-B25A-9CBE7E769124}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9737309C-9697-4028-B25A-9CBE7E769124}.DebugLocal|Default.Build.0 = DebugLocal
+		{9737309C-9697-4028-B25A-9CBE7E769124}.Release|Default.ActiveCfg = Release
+		{9737309C-9697-4028-B25A-9CBE7E769124}.Release|Default.Build.0 = Release
+		{9737309C-9697-4028-B25A-9CBE7E769124}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93F74940-5EA7-4FA5-BD35-2751781A28D8}
+	EndGlobalSection
+EndGlobal
