@@ -14,8 +14,8 @@
 - Scalability can be increased and also the scope of applications broadens.
 - Auto recovery and backing of data in server is highly improved.
 
-#The use of visualization tools like the Tableau and SSRS was done to improve the user interface and make the conclusions drawn much more interactive.
-#The use of the SSRS has provided us with an opportunity to have much more detailed and business centric reports for the data being worked on.
+# The use of visualization tools like the Tableau and SSRS was done to improve the user interface and make the conclusions drawn much more interactive.
+# The use of the SSRS has provided us with an opportunity to have much more detailed and business centric reports for the data being worked on.
 
 # tools used #
 
